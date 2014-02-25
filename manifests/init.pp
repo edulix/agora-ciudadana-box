@@ -17,10 +17,10 @@ $enable_varnish = 'true'
 # email stuff (used in multiple places like agora and sentry..)
 
 $server_mail = 'dips@citizenship.es'
-#$email_host = 'citizenship.es'
-#$email_host_password = '_DIPiPirates2014_'
-#$email_host_user = 'dips@citizenship.es'
-#$email_port = '25'
+$email_host = 'citizenship.es'
+$email_host_password = '_DIPiPirates2014_'
+$email_host_user = 'dips@citizenship.es'
+$email_port = '25'
 
 $agora_auto_activation_secret = '_DIPiPirates2014_'
 
