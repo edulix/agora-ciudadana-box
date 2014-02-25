@@ -2,7 +2,7 @@ $site_name = 'iPirates AgoraVoting C.V.'
 $agora_fqdn = 'ocptecnicos.net'
 $agora_ssl_port = '443'
 $fnmt_fqdn = 'fnmt.ocptecnicos.net'
-$session_cookie_domain = 'cooks.ocptecnicos.net'
+$session_cookie_domain = 'ocptecnicos.net'
 
 # if activated, it will overwrite agora settings if present
 $overwrite_agora_settings = 'true'
