@@ -31,7 +31,7 @@ $django_secret_key = '_DIPiPirates2014_'
 # admin and ssh stuff
 
 $admin_name = 'John Smith'
-$admin_email = 'sindic@citizenship.es'
+$admin_email = 'dips@citizenship.es'
 $ssh_authorized_keys = 'ssh-dss ea:43:54:fa:90:3b:ab:74:7d:27:91:fa:7b:db:3b:fc root@iTodoRedGOB'
 
 # sentry conf
