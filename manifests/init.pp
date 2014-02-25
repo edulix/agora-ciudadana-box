@@ -1,4 +1,4 @@
-$site_name = 'Agora Voting'
+$site_name = 'iPirates AgoraVoting C.V.'
 $agora_fqdn = 'ocptecnicos.net'
 $agora_ssl_port = '443'
 $fnmt_fqdn = 'fnmt.ocptecnicos.net'
