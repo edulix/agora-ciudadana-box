@@ -6,8 +6,10 @@
 (X) cd agora-ciudadana-box
 (X) chmod a+x shell/bootstrap.sh
 (X) sudo shell/bootstrap.sh | tee /tmp/bootstrap_agora.log  
+
+(X) CHANGE puppet (EDIT) from NO to YES!;)
  
-(X) sudo apt-get install puppet
+( ) sudo apt-get install puppet
 ( ) sudo apt-get install puppetmaster
 ( ) sudo apt-get install puppet-common
  
